@@ -1,0 +1,8 @@
+{
+  "name": "Remix: TCRA Code Evaluation Interface",
+  "description": "Academic reviewer-facing tool for evaluating AI-generated code artifacts across Transparency, Controllability, Reliability, and Auditability (TCRA) dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
